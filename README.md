@@ -1,1 +1,1 @@
-# blogproject
+django blog sample program
